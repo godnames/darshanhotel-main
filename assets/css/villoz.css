@@ -2901,7 +2901,7 @@ font-size: 50px;
   }
 }
 .main-menu .main-menu__list > li > a {
-  font-size: 16px;
+  font-size: 18px;
   display: flex;
   align-items: center;
   color: var(--villoz-white, #fff);
